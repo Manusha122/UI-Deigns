@@ -104,34 +104,6 @@ Welcome to my design portfolio! This repository showcases my UI/UX design work c
 
 ---
 
-## 📊 Project Categories
-
-| Category | Count | Tools Used |
-|----------|--------|------------|
-| 🎫 Booking Systems | 2 | Figma |
-| 🏥 Healthcare UI | 1 | Figma |
-| 🧪 Test Projects | 1 | Figma |
-| 📋 Professional | 1 | Figma |
-| 🌐 Interactive Web | 3 | Framer |
-
----
-
-## 🎯 Design Philosophy
-
-- **User-Centric**: Every design prioritizes user experience and accessibility
-- **Modern Aesthetics**: Clean, contemporary interfaces with attention to detail
-- **Functional Beauty**: Combining visual appeal with practical functionality
-- **Interactive Excellence**: Smooth animations and engaging user interactions
-
----
-
-## 📞 Contact & Feedback
-
-Feel free to explore these designs and provide feedback! Each project represents different aspects of my design journey and expertise in creating both static mockups and interactive prototypes.
-
-<div align="center">
-  <p>⭐ If you like my work, please consider giving this repository a star!</p>
-</div>
 
 ---
 
