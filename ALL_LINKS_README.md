@@ -56,6 +56,16 @@ Welcome to my design portfolio! This repository showcases my UI/UX design work c
   <p><em>Experimental design concepts and UI testing</em></p>
 </div>
 
+### SecureLife – App & Web Design Introduction
+
+<div align="center">
+  <h4>🔬 SecureLife</h4>
+  <a href="https://www.figma.com/design/JDP6FIjKrCvJHBtu9cvU8l/SecureLife?node-id=0-1&p=f&t=MJ6ZGgRQznQ8WOmU-0">
+    <img src="https://img.shields.io/badge/View%20Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="">
+  </a>
+  <p><em>Experimental design concepts and UI testing</em></p>
+</div>
+
 ---
 
 ## 🚀 Interactive Prototypes (Framer)
